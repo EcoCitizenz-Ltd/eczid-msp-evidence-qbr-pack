@@ -1,5 +1,5 @@
 name: "ECZ-ID MSP Evidence & QBR Pack"
-description: "Turn observable GitHub and machine-estate facts into a deterministic client evidence pack for QBR, vCISO, insurance and regulatory review workflows."
+description: "Create deterministic machine-trust evidence packs for MSP QBR, vCISO, insurance and regulatory review."
 author: EcoCitizenz Ltd
 branding:
   icon: shield
